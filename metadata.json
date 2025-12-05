@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of GMW 11 - Ara & Lyra Platform",
+  "description": "A comprehensive AI platform orchestrated by Ara (President Agent) and Lyra (Creative Engine), featuring Gemini 2.5 Live API, Veo Video, and Multimodal tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
